@@ -1,0 +1,19 @@
+[PROJECT]
+Target=C:\Users\yoany\Documents\7_semestre\robotica\robotica_p1\main.hex
+Processor_Text=PIC18F4620
+CCSVerions=5.012
+Compiler=PCH
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\yoany\Documents\7_semestre\robotica\robotica_p1\main]
+Type=4
+[mru-list]
+1=main.c
+[Units]
+Count=1
+1=main (main)
+[Opened Files]
+1=main.c
+2=
